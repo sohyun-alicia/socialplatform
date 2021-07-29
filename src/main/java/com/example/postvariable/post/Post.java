@@ -9,6 +9,7 @@ public class Post {
     private User user;
     private String details;
 
+
     public Post(String id, String postdate, User user, String details) {
         this.id = id;
         this.postdate = postdate;
